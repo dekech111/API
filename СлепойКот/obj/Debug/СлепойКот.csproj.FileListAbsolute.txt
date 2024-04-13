@@ -1,0 +1,96 @@
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\СлепойКот.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\СлепойКот.exe
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\СлепойКот.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.exe
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\App.baml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.CopyComplete
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Buffers.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Memory.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Text.Json.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.ValueTuple.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Buffers.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Memory.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Text.Json.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.ValueTuple.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Drawing.Common.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\System.Drawing.Common.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\ScottPlot.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\ScottPlot.WPF.dll
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\bin\Debug\ScottPlot.xml
+C:\Users\ilias\OneDrive\Рабочий стол\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.ResolveComReference.cache
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\СлепойКот.exe.config
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\СлепойКот.exe
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\СлепойКот.pdb
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\ScottPlot.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\ScottPlot.WPF.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Buffers.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Drawing.Common.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Memory.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Text.Json.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.ValueTuple.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\ScottPlot.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Buffers.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Drawing.Common.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Memory.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Text.Json.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.ValueTuple.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.ResolveComReference.cache
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот_MarkupCompile.cache
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот_MarkupCompile.lref
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\App.baml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.g.resources
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.Properties.Resources.resources
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.csproj.CopyComplete
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.exe
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\obj\Debug\СлепойКот.pdb
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\EPPlus.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\EPPlus.xml
+C:\Users\Админ\Desktop\API\СлепойКот\СлепойКот\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
